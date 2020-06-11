@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/supportItem"
+        android:icon="@drawable/support"
+        android:iconTint="@drawable/item_color"
+        android:title="" />
+
+    <item
+        android:id="@+id/adoptionItem"
+        android:icon="@drawable/adopt2"
+        android:iconTint="@drawable/item_color"
+        android:title="" />
+
+    <item
+        android:id="@+id/mypageItem"
+        android:icon="@drawable/mypage"
+        android:iconTint="@drawable/item_color"
+        android:title="" />
+
+</menu>
